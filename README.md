@@ -1,0 +1,2 @@
+# Stock prices prediction application
+Hi, This is a stock prediction application that uses time series analysis with python using fb prophet to make predictions. I am currently setting up the application and i will definately make a better documentation and good Readme. See ya!
